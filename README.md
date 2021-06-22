@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nifhanif
 - 👀 I’m interested in Mobile Programming
-- 🌱 I’m currently learning Something ner
+- 🌱 I’m currently learning Something new
 - 📫 How to reach me www.nifhanif.com / fb.hanif@gmail.com
 
 <!---
